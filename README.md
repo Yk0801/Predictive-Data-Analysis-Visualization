@@ -1,4 +1,5 @@
- Predictive Data Analysis & Visualization
+Predictive Data Analysis & Visualization
+
 
  This project demonstrates our ability to extract insights from real-world data using Python's powerful libraries. We focused on data cleaning, exploratory data analysis (EDA), and machine learning model development, followed by effective visualization to present our findings.
 
@@ -10,7 +11,7 @@
 - Evaluate model performance using metrics like accuracy, precision, recall, and confusion matrix.
 - Visualize key insights using interactive plots and charts.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 - **Python 3.x**
 - **Pandas** – for data wrangling
